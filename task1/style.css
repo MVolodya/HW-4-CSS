@@ -36,7 +36,7 @@ h1 {
     line-height: 36px;
     color: #2b8c57;
     font-weight: normal;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 h2 {
     font-size: 18px;
@@ -78,8 +78,8 @@ a.button {
     background-position: 0px 0px;
 }
 a.button:hover {
-    background-position: 0px -38px
+    background-position: 0px -38px;
 }
 a.button:active {
-    background-position: 0px -76px
+    background-position: 0px -76px;
 }

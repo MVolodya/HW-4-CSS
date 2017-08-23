@@ -7,13 +7,13 @@
 
 ---
 
-* [View result in GitHub Pages](https://mvolodya.github.io/HW-4-CSS/task1/)
+* **[View result in GitHub Pages](https://mvolodya.github.io/HW-4-CSS/task1/index.html)**
 
 ### Task 2
 
-* [Html page model](https://github.com/MVolodya/HW-4-CSS/blob/master/sourse/example.png)
+* [Html page model](https://github.com/MVolodya/HW-4-CSS/blob/master/sourse/v10-original.jpg)
 * [Source for html page model](https://github.com/MVolodya/HW-4-CSS/blob/master/sourse/home-task.docx)
 
 ---
 
-* [View result in GitHub Pages](https://mvolodya.github.io/HW-4-CSS/task2/)
+* **[View result in GitHub Pages](https://mvolodya.github.io/HW-4-CSS/task2/index.html)**

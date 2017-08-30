@@ -16,3 +16,14 @@
 
 * **[View result in GitHub Pages](https://mvolodya.github.io/HW-4-CSS/task2/index.html)**
 
+---
+
+### Task 3 | Flexbox Froggy
+
+![task3, img1](https://github.com/MVolodya/HW-4-CSS/blob/master/sourse/flexboxfroggy.png)
+
+---
+
+### Task 4 | CSS Diner
+
+![task4, img2](https://github.com/MVolodya/HW-4-CSS/blob/master/sourse/cssdiner.png)
